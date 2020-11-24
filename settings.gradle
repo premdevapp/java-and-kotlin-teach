@@ -1,0 +1,4 @@
+include ':LearnKotlin'
+include ':learn'
+include ':app'
+rootProject.name = "My Application"
